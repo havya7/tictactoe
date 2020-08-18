@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tic-tac-toe</string>
+    <string name="tic_tac_toe">TIC-TAC-TOE</string>
+    <string name="grid">main grid</string>
+    <string name="image">i0</string>
+    <string name="image1">i1</string>
+    <string name="image2">i2</string>
+    <string name="image3">i3</string>
+    <string name="image4">i4</string>
+    <string name="image5">i5</string>
+    <string name="image6">i6</string>
+    <string name="image7">i7</string>
+    <string name="image8">i8</string>
+    <string name="hardcoded_string">X\'s turn - Tap to play</string>
+    <string name="Play">PLAY</string>
+</resources>
